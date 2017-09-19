@@ -3,15 +3,17 @@ import { StyleSheet, Text, View } from 'react-native';
 import { WebView } from 'react-native';
 
 export default class App extends React.Component {
+
+  
   render() {
     return (
-     
+
        <WebView
-           
-           source={{ uri: 'build/index.html', baseUrl: 'build/' }}
+           onError={e => console.log(e)}
+           source={{ uri: "build/index.html", baseUrl:'build/' }}
+           //source={{ uri: 'http://www.ziedbouhejba.com' }}
            style={{ flex: 1 }}
-           ref="webview"
-           
+           ref="webview"  
          />
      
     );
