@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zeus/Development/ReactNative/react-native-zied/android/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/zeus/Development/ReactNative/react-native-zied/android/app/src/debug/shaders"/></dataSet></merger>

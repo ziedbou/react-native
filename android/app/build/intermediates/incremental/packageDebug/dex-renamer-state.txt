@@ -1,0 +1,4 @@
+#Wed Sep 20 17:44:41 EDT 2017
+base.0=/Users/zeus/Development/ReactNative/react-native-zied/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/zeus/Development/ReactNative/react-native-zied/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
